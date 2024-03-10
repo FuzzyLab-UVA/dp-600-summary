@@ -26,6 +26,17 @@ Nesse módulo sera ensinado o modelo de dados Gen2.
 
 Workspace -> DataLake -> Dataflow Gen2 -> Data Pipeline
 
+## Ingerir dados com o Spark e os notebooks do Microsoft Fabric
+
+### Ordem de criação
+
+Workspace -> LakeHouse -> Notebook Fabric
+
+### Gravação em arquivos
+
+Para você gravar de um notebook em um arquivo no **LakeHouse** você precisa de um **ABFS Path**
+
+
 
 
 
