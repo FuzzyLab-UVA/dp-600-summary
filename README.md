@@ -1,42 +1,7 @@
 # DP-600: Fabric
 
-## Ingerir dados com fluxos de dados Gen2 no Microsoft Fabric
+![Fabric Logo](https://oakwoodsys.com/wp-content/uploads/2023/10/microsoft-fabric-logo.png)
 
-### Introdução 
+## Sumário
 
-- Engenharia de dados: A parte que prepara os dados para serem enviados para um Cientista de dados.
-
-- Cientista de dados: Quem recebe os dados para fazer visualização no Power BI ou modelos preditivos.
-
-[Colocar imagem do Vinicius aqui]
-
-Nesse módulo sera ensinado o modelo de dados Gen2.
-
-### Entender fluxos de dados Gen2 no Microsoft Fabric
-
-- Lakehouse: Uma arquitetura de dados moderna que cria uma única plataforma combinando os principais benefícios dos data lakes
-
-- Data Lake: É um repositório centralizado projetado para armazenar, processar e proteger grandes quantidades de dados estruturados, semiestruturados e não estruturados.
-
-- Fluxo de dados: Processo de ETL em uma pipeline baseada em nuvem que preparar os dados para serem ingeridos no final por um Power BI(Por exemplo).
-
-- **Power Query Online**: Permite que uma interface visual execute tarefas.
-
-### Oderm de criação
-
-Workspace -> DataLake -> Dataflow Gen2 -> Data Pipeline
-
-## Ingerir dados com o Spark e os notebooks do Microsoft Fabric
-
-### Ordem de criação
-
-Workspace -> LakeHouse -> Notebook Fabric
-
-### Gravação em arquivos
-
-Para você gravar de um notebook em um arquivo no **LakeHouse** você precisa de um **ABFS Path**
-
-
-
-
-
+- [Ingestão de dados com o Fabric](./docs/ingerir_dados_com_fabric.md)
