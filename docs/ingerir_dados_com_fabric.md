@@ -14,7 +14,7 @@ Nesse módulo sera ensinado o modelo de dados Gen2.
 
 ### Dicionário
 
-- **Lakehouse**: Uma arquitetura de dados moderna que cria uma única plataforma combinando os principais benefícios dos data lakes
+- **Lakehouse**: Uma arquitetura de dados moderna que cria uma única plataforma combinando os principais benefícios dos data lakes usando tabelas Delta.
 
 - **Data Lake**: É um repositório centralizado projetado para armazenar, processar e proteger grandes quantidades de dados estruturados, semiestruturados e não estruturados.
 
